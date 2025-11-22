@@ -1,0 +1,5 @@
+{
+  "name": "CinePrompt - Video to Prompt AI",
+  "description": "A professional tool that analyzes video footage shot-by-shot and generates precise AI image prompts for each frame using multimodal LLMs.",
+  "requestFramePermissions": []
+}
